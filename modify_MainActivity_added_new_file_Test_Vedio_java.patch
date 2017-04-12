@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/example/dilippc/video/TestVedio.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/dilippc/video/TestVedio.java	(date 1491999830000)
++++ app/src/main/java/com/example/dilippc/video/TestVedio.java	(revision )
+@@ -5,4 +5,7 @@
+  */
+ 
+ public class TestVedio {
++
++
++    int a=1;
+ }
