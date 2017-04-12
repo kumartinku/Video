@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+  call();
      b=(Button) findViewById(R.id.button);
 
 
@@ -49,9 +49,18 @@ public class MainActivity extends AppCompatActivity {
                 videoView.requestFocus();
                 videoView.start();
 
+
+
             }
         });
 
+    }
+
+    private void call() {
+
+
+
+         int i=10;
     }
 
 
